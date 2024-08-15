@@ -1,0 +1,17 @@
+.tabela-1 th{
+    border: black solid 1px;
+    background-color: #BB86FC;
+    color: white;
+}
+
+.tabela-2 th {
+    border: black solid 1px;
+    background-color: #00C4B4;
+    color: white;
+}
+
+.tabelas td{
+    border: black solid 1px;
+    background-color: #424250;
+    color: white;
+}
